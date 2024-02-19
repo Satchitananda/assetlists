@@ -2682,6 +2682,20 @@
         }
       ],
       "osmosis_unlisted": true
+    },
+    {
+      "chain_name": "odin",
+      "base_denom": "udoki",
+      "path": "transfer/channel-258/udoki",
+      "twitter_URL": "https://twitter.com/doki_coin",
+      "osmosis_verified": false
+    },
+     {
+      "chain_name": "odin",
+      "base_denom": "umyrk",
+      "path": "transfer/channel-258/umyrk",
+      "twitter_URL": "https://twitter.com/myrkweilds",
+      "osmosis_verified": false
     }
   ]
 }
